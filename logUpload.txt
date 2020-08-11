@@ -1,0 +1,23 @@
+
+Erro ao criar peça - 600054
+ReferenceError: successs is not defined
+Erro ao criar peça - 600066
+ReferenceError: successs is not defined
+Erro ao criar peça - 600071
+ReferenceError: successs is not defined
+Erro ao criar peça - 600041
+ReferenceError: successs is not defined
+Erro ao criar peça - 600010
+ReferenceError: successs is not defined
+Erro ao criar peça - 600097
+ReferenceError: successs is not defined
+Erro ao criar peça - 600062
+ReferenceError: successs is not defined
+Erro ao criar peça - 600030
+ReferenceError: successs is not defined
+Erro ao criar peça - 600025
+ReferenceError: successs is not defined
+Erro ao criar peça - 600020
+ReferenceError: successs is not defined
+Erro ao criar peça - 600044
+ReferenceError: successs is not defined
